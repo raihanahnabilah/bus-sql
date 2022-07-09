@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ync.ysc3232.challenge2.model","l":"ColoredRectangle"}]
